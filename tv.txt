@@ -1,13 +1,13 @@
 福建移动V4,#genre#
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-2,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-CCTV-3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
+CCTV-3,http://itv.nctv.top:35455/gaoma/cctv3.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-CCTV-5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
+CCTV-5,http://111.170.172.113:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
-CCTV-6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=14916759019483157794
+CCTV-6,http://111.170.172.113:35455/gaoma/cctv6.m3u8
 CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15852265263958669967
+CCTV-8,http://1.itv.nctv.top:35455/gaoma/cctv8.m3u8
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-10,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
