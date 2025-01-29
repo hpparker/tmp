@@ -1,7 +1,7 @@
 福建移动,#genre#
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-2,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-#CCTV-3,http://iptv.shabb.cn/TVOD/6000000001000022313/wasusyt/index.m3u8
+#CCTV-3,http://hangfun.top:35455/gaoma/cctv3.m3u8
 CCTV-3,http://lt.hxtre.com:35455/gaoma/cctv3.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
 #CCTV-5,http://iptv.shabb.cn/TVOD/1000000005000025222/ystenlive/index.m3u8
@@ -10,7 +10,7 @@ CCTV-5+,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
 #CCTV-6,http://iptv.shabb.cn/TVOD/6000000001000004574/wasusyt/index.m3u8
 CCTV-6,http://lt.hxtre.com:35455/gaoma/cctv6.m3u8
 CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-#CCTV-8,http://iptv.shabb.cn/TVOD/6000000001000001070/wasusyt/index.m3u8
+#CCTV-8,http://hangfun.top:35455/gaoma/cctv8.m3u8
 CCTV-8,http://lt.hxtre.com:35455/gaoma/cctv8.m3u8
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-10,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
