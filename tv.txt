@@ -5,7 +5,7 @@ CCTV3,http://lt.hxtre.com:35455/gaoma/cctv3.m3u8
 CCTV4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
 CCTV5,http://lt.hxtre.com:35455/gaoma/cctv5.m3u8
 CCTV5+,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
-CCTV6,http://iptv.shabb.cn/TVOD/6000000001000004574/wasusyt/index.m3u8
+CCTV6,http://hangfun.top:35455/gaoma/cctv6.m3u8
 CCTV7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
 CCTV8,http://lt.hxtre.com:35455/gaoma/cctv8.m3u8
 CCTV9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
