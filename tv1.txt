@@ -69,8 +69,8 @@ CATV1-9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226866/index.m3u8
 惊悚悬疑,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227466/index.m3u8
 金牌综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/index.m3u8
 精品体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227470/index.m3u8
-足球频道, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
-晴彩竞技, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
+足球频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
+晴彩竞技,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 中国功夫,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227473/index.m3u8
 电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227327/index.m3u8
 电视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227478/index.m3u8
